@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://makeroni.cc/</loc>
+    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://makeroni.cc/posts/</loc>
+    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://makeroni.cc/posts/my-first-post/</loc>
+    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://makeroni.cc/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://makeroni.cc/tags/</loc>
+  </url>
+  
+</urlset>

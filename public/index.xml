@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makeroni</title>
+    <link>http://makeroni.cc/</link>
+    <description>Recent content on Makeroni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 21:53:24 +0100</lastBuildDate>
+    
+	<atom:link href="http://makeroni.cc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing this space</title>
+      <link>http://makeroni.cc/posts/my-first-post/</link>
+      <pubDate>Tue, 07 Jul 2020 21:53:24 +0100</pubDate>
+      
+      <guid>http://makeroni.cc/posts/my-first-post/</guid>
+      <description>Watch this space &amp;hellip; things will be happening. </description>
+    </item>
+    
+  </channel>
+</rss>

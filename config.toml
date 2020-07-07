@@ -1,0 +1,4 @@
+baseURL = "http://makeroni.cc/"
+languageCode = "en-us"
+title = "Makeroni"
+theme = "ananke"
