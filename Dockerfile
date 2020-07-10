@@ -1,9 +1,7 @@
 FROM klakegg/hugo:0.73.0
 
-COPY . .
+COPY . /src
 
-RUN "hugo"
+EXPOSE 80
 
-EXPOSE 1313
-
-CMD [ "server" ]
+ENTRYPOINT [ "hugo","server","-p","80", "-b","https://makeronicc.fly.dev/" ]

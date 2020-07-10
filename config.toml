@@ -1,4 +1,4 @@
-baseURL = "http://makeroni.cc/"
+baseURL = "https://makeronicc.fly.dev/"
 languageCode = "en-us"
 title = "Makeroni"
 theme = "ananke"
