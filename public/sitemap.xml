@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://makeroni.cc/</loc>
-    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+    <loc>https://makeroni.cc/</loc>
+    <lastmod>2020-07-11T14:52:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://makeroni.cc/posts/</loc>
-    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+    <loc>https://makeroni.cc/posts/makeroni-is-live/</loc>
+    <lastmod>2020-07-11T14:52:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://makeroni.cc/posts/my-first-post/</loc>
-    <lastmod>2020-07-07T21:53:24+01:00</lastmod>
+    <loc>https://makeroni.cc/posts/</loc>
+    <lastmod>2020-07-11T14:52:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://makeroni.cc/categories/</loc>
+    <loc>https://makeroni.cc/categories/</loc>
   </url>
   
   <url>
-    <loc>http://makeroni.cc/tags/</loc>
+    <loc>https://makeroni.cc/tags/</loc>
   </url>
   
 </urlset>
