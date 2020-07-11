@@ -4,4 +4,4 @@ COPY . /src
 
 EXPOSE 80
 
-ENTRYPOINT [ "hugo","server","-p","80", "-b","https://makeronicc.fly.dev/" ]
+ENTRYPOINT [ "hugo","server", "-p","80","-b","https://makeronicc.fly.dev/", "--appendPort=false" ]
