@@ -1,6 +1,12 @@
-baseURL = "https://makeronicc.fly.dev/"
+baseURL = "https://makeroni.cc"
 languageCode = "en-us"
 title = "Makeroni"
 theme = "ananke"
 [params]
-  site_logo = "images/makeroni-logo-small.png"
+  site_logo = "/images/makeroni-logo-small.png"
+
+[server]
+[[server.headers]]
+  for = "/**.html"
+  [server.headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
