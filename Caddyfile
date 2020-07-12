@@ -1,0 +1,3 @@
+http://makeroni.cc/
+root * /usr/share/caddy
+file_server

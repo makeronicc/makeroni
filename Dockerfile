@@ -1,7 +1,8 @@
-FROM klakegg/hugo:0.73.0
+FROM klakegg/hugo:0.73.0-onbuild AS hugo
 
-COPY . /src
+FROM hugo
 
-EXPOSE 80
+FROM caddy:2.1.1
 
-ENTRYPOINT [ "hugo","server", "-p","80","-b","https://makeroni.cc", "--appendPort=false", "--disableFastRender" ]
+COPY --from=hugo /target/ /usr/share/caddy/
+COPY ./Caddyfile /etc/caddy/Caddyfile
