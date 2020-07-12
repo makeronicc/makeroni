@@ -4,4 +4,4 @@ COPY . /src
 
 EXPOSE 80
 
-ENTRYPOINT [ "hugo","server", "-p","80","-b","https://makeroni.cc", "--appendPort=false" ]
+ENTRYPOINT [ "hugo","server", "-p","80","-b","https://makeroni.cc", "--appendPort=false", "--disableFastRender" ]
