@@ -1,3 +1,12 @@
-http://makeroni.cc/
-root * /usr/share/caddy
-file_server
+{
+    auto_https off
+}
+
+http://makeroni.cc {
+    root * /usr/share/caddy
+    file_server
+}
+
+http://makeronicc.fly.dev {
+    redir https://makeroni.cc
+}
