@@ -1,6 +1,4 @@
-FROM klakegg/hugo:0.73.0-onbuild AS hugo
-
-FROM hugo
+FROM klakegg/hugo:0.74.0-onbuild AS hugo
 
 FROM caddy:2.1.1
 
