@@ -6,10 +6,21 @@
     <description>Recent content on Makeroni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 14:52:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 11:33:47 +0100</lastBuildDate>
     
 	<atom:link href="https://makeroni.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Makeroni Meeting Online</title>
+      <link>https://makeroni.cc/posts/meeting-online/</link>
+      <pubDate>Wed, 15 Jul 2020 11:33:47 +0100</pubDate>
+      
+      <guid>https://makeroni.cc/posts/meeting-online/</guid>
+      <description>As HackWimbledon, we had 16 Saturday meetups online and we aren&amp;rsquo;t going to stop.
+  Makeroni meetups happen on video and audio on Discord ever Saturday from 12 midday to 4pm.
+  You&amp;rsquo;re always welcome to chat at anytime in the Discord channels, but in these four hours we want to be meeting be more meetupy - face to face, talking about what we&amp;rsquo;re making, showing it, and helping each other make it better.</description>
+    </item>
     
     <item>
       <title>Makeroni Is Live</title>
