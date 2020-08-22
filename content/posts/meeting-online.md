@@ -2,6 +2,8 @@
 title: "Makeroni Meeting Online"
 date: 2020-07-15T11:33:47+01:00
 draft: false
+tags:
+- Makeroni
 ---
 
 As HackWimbledon, we had 16 Saturday meetups online and we aren't going to stop. 

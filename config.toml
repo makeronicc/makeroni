@@ -2,5 +2,11 @@ baseURL = "https://makeroni.cc"
 languageCode = "en-us"
 title = "Makeroni"
 theme = "ananke"
+sectionPagesMenu = "main"
+featured_image = "/images/spencer-lbqLxgvLt0U-unsplash.jpg"
+
 [params]
   site_logo = "/images/makeroni-logo-small.png"
+
+
+  

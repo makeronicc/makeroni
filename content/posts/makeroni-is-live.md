@@ -2,6 +2,8 @@
 title: "Makeroni Is Live"
 date: 2020-07-11T14:52:38+01:00
 draft: false
+tags:
+- Makeroni
 ---
 
 Now you may wonder what Makeroni is, so here's some brief history. HackWimbledon, the popup makerspace in Wimbledon, operating out of Wimbletech, has been going for a six years or so when Covid-19 struck.
