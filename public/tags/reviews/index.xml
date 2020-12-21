@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Makeroni</title>
+    <link>https://makeroni.cc/tags/reviews/</link>
+    <description>Recent content in Reviews on Makeroni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 14:28:15 +0100</lastBuildDate><atom:link href="https://makeroni.cc/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review #1</title>
+      <link>https://makeroni.cc/posts/reviewone/</link>
+      <pubDate>Sat, 22 Aug 2020 14:28:15 +0100</pubDate>
+      
+      <guid>https://makeroni.cc/posts/reviewone/</guid>
+      <description>Marian reviews the Smart Power Back Keep Alive
+I bought this one, and am very pleased with it. Does what it says it does. It also comes with a note which explains there&amp;rsquo;s a screw on the device which acts as a potentiometer so that you can adjust the current to the absolute lowest you need. For under a tenner, great!
+Want your review featured on Makeroni? Ping Codepope on the Discord server!</description>
+    </item>
+    
+  </channel>
+</rss>

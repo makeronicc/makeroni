@@ -4,6 +4,31 @@
   
   <url>
     <loc>https://makeroni.cc/</loc>
+    <lastmod>2020-08-22T14:28:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeroni.cc/posts/</loc>
+    <lastmod>2020-08-22T14:28:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeroni.cc/posts/reviewone/</loc>
+    <lastmod>2020-08-22T14:28:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeroni.cc/tags/reviews/</loc>
+    <lastmod>2020-08-22T14:28:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeroni.cc/tags/</loc>
+    <lastmod>2020-08-22T14:28:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeroni.cc/tags/makeroni/</loc>
     <lastmod>2020-07-15T11:33:47+01:00</lastmod>
   </url>
   
@@ -13,21 +38,16 @@
   </url>
   
   <url>
-    <loc>https://makeroni.cc/posts/</loc>
-    <lastmod>2020-07-15T11:33:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://makeroni.cc/posts/makeroni-is-live/</loc>
     <lastmod>2020-07-11T14:52:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makeroni.cc/categories/</loc>
+    <loc>https://makeroni.cc/about/</loc>
   </url>
   
   <url>
-    <loc>https://makeroni.cc/tags/</loc>
+    <loc>https://makeroni.cc/categories/</loc>
   </url>
   
 </urlset>
