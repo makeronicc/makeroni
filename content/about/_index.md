@@ -1,10 +1,10 @@
 ---
-title: "About Makeroni"
+title: "About"
 ---
 
 ## What is Makeroni?
 
-Makeroni is starting out in a prototype phase. Our realtime web presence will be over on Discord on the [Makeroni](https://launchpass.com/makeroni) server. There we'll have Discord's fine community interaction tools available to us.
+Makeroni is starting out in a prototype phase. Our realtime web presence will be over on Discord on the [Makeroni](https://discord.gg/HYYXHSu) server. There we'll have Discord's fine community interaction tools available to us.
 
 Our social media presence will be in Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC).
 
