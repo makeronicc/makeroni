@@ -6,6 +6,7 @@ DefaultContentLanguage = "en"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
+
 [module]
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
@@ -20,7 +21,7 @@ enableRobotsTXT = true
   site_logo = "/images/makeroni-logo-small.png"
   show_reading_time = true
   description = "A place to meet and make online"
-  mainSections= [ "news","project","reviews" ]
+  mainSections= [ "news","projects","reviews" ]
   favicon = "/makeroni-logo-128x128-favicon.png"
   facebook = ""
   twitter = "https://twitter.com/makeronicc"
