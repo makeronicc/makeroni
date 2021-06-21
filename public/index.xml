@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Makeroni on Makeroni</title>
+    <title>Makeroni</title>
     <link>https://makeroni.cc/</link>
-    <description>Recent content in About Makeroni on Makeroni</description>
+    <description>Recent content on Makeroni</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 14:28:15 +0100</lastBuildDate><atom:link href="https://makeroni.cc/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 22 Feb 2021 13:08:52 +0000</lastBuildDate><atom:link href="https://makeroni.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Review #1</title>
-      <link>https://makeroni.cc/posts/reviewone/</link>
+      <title>TS80P Soldering Iron</title>
+      <link>https://makeroni.cc/review/ts80p-soldering-iron/</link>
+      <pubDate>Mon, 22 Feb 2021 13:08:52 +0000</pubDate>
+      
+      <guid>https://makeroni.cc/review/ts80p-soldering-iron/</guid>
+      <description>DJ reviews the TS80P Soldering Iron
+I&amp;rsquo;ve been through most of the TS range of soldering irons, the original TS100 was a solid performer, mostly limited by its power supply. The OLED display and the microcontroller driven internals offered up so many possibilities for smarter soldering. Many of which would be unrealised until folks started hacking their own firmware for the device. It was super compact though and created a new space for compact smart soldering irons for the maker toolbag.</description>
+    </item>
+    
+    <item>
+      <title>Make the Makeroni site better</title>
+      <link>https://makeroni.cc/projects/makeroni-site/</link>
+      <pubDate>Mon, 22 Feb 2021 13:05:25 +0000</pubDate>
+      
+      <guid>https://makeroni.cc/projects/makeroni-site/</guid>
+      <description>Making the Makeroni site better is an ongoing project for anyone who wants to sharpen up their webskills. We&amp;rsquo;re using Hugo, a standard theme and deploying using Netlify. If you want to host your own site for almost nothing, then this is where you can join in and find out how.</description>
+    </item>
+    
+    <item>
+      <title>Smart Power Bank Keep Alive</title>
+      <link>https://makeroni.cc/review/smart-power-bank-keep-alive/</link>
       <pubDate>Sat, 22 Aug 2020 14:28:15 +0100</pubDate>
       
-      <guid>https://makeroni.cc/posts/reviewone/</guid>
+      <guid>https://makeroni.cc/review/smart-power-bank-keep-alive/</guid>
       <description>Marian reviews the Smart Power Back Keep Alive
 I bought this one, and am very pleased with it. Does what it says it does. It also comes with a note which explains there&amp;rsquo;s a screw on the device which acts as a potentiometer so that you can adjust the current to the absolute lowest you need. For under a tenner, great!
 Want your review featured on Makeroni? Ping Codepope on the Discord server!</description>
@@ -20,21 +39,21 @@ Want your review featured on Makeroni? Ping Codepope on the Discord server!</des
     
     <item>
       <title>Makeroni Meeting Online</title>
-      <link>https://makeroni.cc/posts/meeting-online/</link>
+      <link>https://makeroni.cc/news/meeting-online/</link>
       <pubDate>Wed, 15 Jul 2020 11:33:47 +0100</pubDate>
       
-      <guid>https://makeroni.cc/posts/meeting-online/</guid>
+      <guid>https://makeroni.cc/news/meeting-online/</guid>
       <description>As HackWimbledon, we had 16 Saturday meetups online and we aren&amp;rsquo;t going to stop.
   Makeroni meetups happen on video and audio on Discord ever Saturday from 12 midday to 4pm.
-  You&amp;rsquo;re always welcome to chat at anytime in the Discord channels, but in these four hours we want to be meeting be more meetupy - face to face, talking about what we&amp;rsquo;re making, showing it, and helping each other make it better.</description>
+  You&amp;rsquo;re always welcome to chat at anytime in the Discord channels, but in these four hours we want the meeting to be more meetupy - face to face, talking about what we&amp;rsquo;re making, showing it, and helping each other make it better.</description>
     </item>
     
     <item>
       <title>Makeroni Is Live</title>
-      <link>https://makeroni.cc/posts/makeroni-is-live/</link>
+      <link>https://makeroni.cc/news/makeroni-is-live/</link>
       <pubDate>Sat, 11 Jul 2020 14:52:38 +0100</pubDate>
       
-      <guid>https://makeroni.cc/posts/makeroni-is-live/</guid>
+      <guid>https://makeroni.cc/news/makeroni-is-live/</guid>
       <description>Now you may wonder what Makeroni is, so here&amp;rsquo;s some brief history. HackWimbledon, the popup makerspace in Wimbledon, operating out of Wimbletech, has been going for a six years or so when Covid-19 struck.
 This made things hard - the group was all about meeting up in person. HackWimbledon adjourned to an online presence with the aim on maybe meeting up again when this thing was over. It&amp;rsquo;s now July, Covid-19 will be with us for quite a while and HackWimbledon had to evolve to meet the new challenge of how to be a community.</description>
     </item>

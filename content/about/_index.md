@@ -4,7 +4,7 @@ title: "About"
 
 ## What is Makeroni?
 
-Makeroni is starting out in a prototype phase. Our realtime web presence will be over on Discord on the [Makeroni](https://discord.gg/HYYXHSu) server. There we'll have Discord's fine community interaction tools available to us.
+Makeroni is still in a prototype phase. If you want to participate in realtime you'll find us all over on Discord on the [Makeroni](https://discord.gg/HYYXHSu) server. There we'll have Discord's fine community interaction tools available to us.
 
 Our social media presence will be in Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC).
 
@@ -14,4 +14,4 @@ And finally the website, [Makeroni.cc](https://makeroni.cc), where you are right
 
 ## What will Makeroni be?
 
-Over the coming months, we're going to start building out the web site to enable users to sign up as Makeroni members, complete with a location and as the conditions change, the site will enable groups of local makers (or visiting makers) to meetup and compare notes, hack devices and the like in a Covid-safe environment. So, that's the plan and if you want to join in making it real, welcome aboard.
+The plan is that we're going to build out the web site to enable users to sign up as Makeroni members, complete with a location and as the conditions change, the site will enable groups of local makers (or visiting makers) to meetup and compare notes, hack devices and the like in a Covid-safe environment. So, that's the plan and if you want to join in making it real, welcome aboard.
