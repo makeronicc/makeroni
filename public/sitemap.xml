@@ -2,17 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://makeroni.cc/</loc>
-    <lastmod>2021-02-22T13:08:52+00:00</lastmod>
+    <loc>https://makeroni.cc/tags/makeroni/</loc>
+    <lastmod>2021-11-21T22:26:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://makeroni.cc/tags/reviews/</loc>
-    <lastmod>2021-02-22T13:08:52+00:00</lastmod>
+    <loc>https://makeroni.cc/</loc>
+    <lastmod>2021-11-21T22:26:38+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://makeroni.cc/news/</loc>
+    <lastmod>2021-11-21T22:26:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://makeroni.cc/tags/</loc>
+    <lastmod>2021-11-21T22:26:38+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://makeroni.cc/news/update_winter_2021/</loc>
+    <lastmod>2021-11-21T22:26:38+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://makeroni.cc/news/makeroni-update/</loc>
+    <lastmod>2021-06-21T20:39:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://makeroni.cc/tags/reviews/</loc>
     <lastmod>2021-02-22T13:08:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,17 +62,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://makeroni.cc/tags/makeroni/</loc>
-    <lastmod>2020-07-15T11:33:47+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://makeroni.cc/news/meeting-online/</loc>
-    <lastmod>2020-07-15T11:33:47+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://makeroni.cc/news/</loc>
     <lastmod>2020-07-15T11:33:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -6,7 +6,27 @@
     <description>Recent content on Makeroni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 Jul 2020 11:33:47 +0100</lastBuildDate><atom:link href="https://makeroni.cc/tags/makeroni/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 22:26:38 +0000</lastBuildDate><atom:link href="https://makeroni.cc/tags/makeroni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update Winter 2021</title>
+      <link>https://makeroni.cc/news/update_winter_2021/</link>
+      <pubDate>Sun, 21 Nov 2021 22:26:38 +0000</pubDate>
+      
+      <guid>https://makeroni.cc/news/update_winter_2021/</guid>
+      <description>We&amp;rsquo;re still here, meeting every Saturday afternoon for hours of project building, chats and more. We&amp;rsquo;re also having occasional meetups in the flesh, down the pub and there&amp;rsquo;s still some work happening on putting together a smarter site with project tracking and micromeetups.
+What do we cover these days? Well, recent discussions have centered around Home Assistant, MQTT, Zigbee, ESP-Home and all the nuances of getting home automation working. There&amp;rsquo;s also been hacking on Python, MicroPython, CircuitPython, TinyGo and lots of small boards, watches and things that look like tiny game consoles.</description>
+    </item>
+    
+    <item>
+      <title>Makeroni Update</title>
+      <link>https://makeroni.cc/news/makeroni-update/</link>
+      <pubDate>Mon, 21 Jun 2021 20:39:10 +0100</pubDate>
+      
+      <guid>https://makeroni.cc/news/makeroni-update/</guid>
+      <description>You may, or may not, be wondering how Makeroni has been going since we went online-only for the pandemic. Well, as the solstice comes about, we&amp;rsquo;re going great with our regular Saturday meetups carrying on in an unbroken sequence and occasional Makeroni extra sessions popping up on demand.
+There&amp;rsquo;s less robots at the moment (they really benefit from doing things in person), but there&amp;rsquo;s a lot more Home Assistant building and installing as makers have had time to set up their own automated environs.</description>
+    </item>
+    
     <item>
       <title>Makeroni Meeting Online</title>
       <link>https://makeroni.cc/news/meeting-online/</link>
