@@ -1,5 +1,15 @@
 # makeroni
-The Makeroni Website
+## The Makeroni Website
 
-This is a hugo site, staged to deliver a fresh site for Makeroni folk.
+Download and install Hugo (and Go)
+
+Clone the repository
+
+Run `hugo serve` to run the development server locally.
+
+## Warning
+
+*Committing to the main branch will automatically deploy to Netlify.*
+
+If you are making changes, branch and/or fork and work in a branch.
 
