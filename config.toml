@@ -20,7 +20,7 @@ enableRobotsTXT = true
 [params]
   site_logo = "/images/makeroni-logo-small.png"
   show_reading_time = true
-  description = "A place to meet and make online"
+  description = "A place to meet and make online (and physically)"
   mainSections= [ "news","projects","reviews" ]
   favicon = "/makeroni-logo-128x128-favicon.png"
   facebook = ""
