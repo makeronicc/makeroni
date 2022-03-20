@@ -1,5 +1,5 @@
 # Hugo default output directory
-public/**
+public
 
 ## OS Files
 # Windows
@@ -11,3 +11,14 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 
+node_modules
+dist
+tmp
+resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+.vscode
+package*json

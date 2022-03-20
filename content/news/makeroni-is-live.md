@@ -26,7 +26,7 @@ Over the coming months, we're going to start building out the web site to enable
 
 ## What will happen to HackWimbledon?
 
-We're going to ramp that down over the next month or so, wrapping it all up at the start of September. You'll likely see various announcements about the new arrangements and then we'll stop bugging you or you'll have joined in with the Makeroni crew. 
+We're going to ramp that down over the next month or so, wrapping it all up at the start of September. You'll likely see various announcements about the new arrangements and then we'll stop bugging you or you'll have joined in with the Makeroni crew.
 
 More to come over the rest of the year. Make Good Stuff!
 

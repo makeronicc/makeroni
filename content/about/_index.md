@@ -17,6 +17,3 @@ And finally the website, [Makeroni.cc](https://makeroni.cc), where you are right
 ## What will Makeroni be?
 
 The long term plan is that we're going to build out the web site to enable users to sign up as Makeroni members, complete with a location and as conditions change, the site will enable groups of local makers (or visiting makers) to meetup and compare notes, hack devices and the like in a safe environment. So, that's the plan and if you want to join in making it real, welcome aboard.
-
-
-

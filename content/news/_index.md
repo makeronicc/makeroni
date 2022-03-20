@@ -1,9 +1,8 @@
 ---
 title: "News"
 draft: false
-tags: 
+tags:
 - posts
 ---
 
 Latest news from Makeroni:
-

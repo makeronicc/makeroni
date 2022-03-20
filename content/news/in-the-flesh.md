@@ -2,7 +2,7 @@
 title: "In the Flesh- HackWimbledon is back"
 date: 2022-03-07T13:44:13Z
 draft: false
-tags: 
+tags:
 - Makeroni
 - HackWimbledon
 ---
@@ -32,7 +32,3 @@ And that safety thing covers any tools you bring along and no making death rays 
 ## Ready to Roll
 
 So that's the plan. We don't have a Meetup yet, this is pretty much a soft relaunch. We're keeping the name Makeroni for the virtual community and as an umbrella for the physical events. If you need more information, join our [Discord Server](https://discord.gg/HYYXHSu) and we will all be there ready to answer your questions, about HackWimbledon, Makeroni or hey, making things!
-
-
-
-
