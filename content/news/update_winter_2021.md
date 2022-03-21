@@ -11,8 +11,6 @@ What do we cover these days? Well, recent discussions have centered around Home 
 
 And if your plans are bigger, we've got a resident cloud builder in house so you can make apps in the ether. If you aren't into this, really do come along and bring your favorite subject with you!
 
-So as always, you can come along or just hang out on our Discord server, where we have searchable chat rooms, audio and video streaming, and now a handy events system which we're using to announce events into next year. 
+So as always, you can come along or just hang out on our Discord server, where we have searchable chat rooms, audio and video streaming, and now a handy events system which we're using to announce events into next year.
 
 Get signed up using this link. [Discord Server Sign Up](https://discord.gg/HYYXHSu).
-
-
