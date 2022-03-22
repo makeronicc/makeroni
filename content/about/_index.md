@@ -10,10 +10,10 @@ Our social media presence is on Twitter for now as [@Makeronicc](https://twitter
 
 We're having online with a virtual meeting on the first Sunday of every month.
 
-We also have [physical meetings](/news/in-the-flesh/) (in Wimbledon) on the third Sunday of every month. You'll want to be signed up on [Makeroni Discord](https://discord.gg/HYYXHSu) to be kept up to date and the show your interest in attending an event.
+We also have [physical meetings](/news/in-the-flesh/) (in Wimbledon) on the third Sunday of every month. You'll want to be signed up on [Makeroni Discord](https://discord.gg/HYYXHSu) to be kept up-to-date and to show your interest in attending an event.
 
 And finally the website, [Makeroni.cc](https://makeroni.cc), where you are right now, will be the base for a community contributed blog, and the launchpad for our longer term plans.
 
 ## What will Makeroni be?
 
-The long term plan is that we're going to build out the web site to enable users to sign up as Makeroni members, complete with a location and as conditions change, the site will enable groups of local makers (or visiting makers) to meetup and compare notes, hack devices and the like in a safe environment. So, that's the plan and if you want to join in making it real, welcome aboard.
+The long term plan is that we're going to build out the website to enable users to sign up as Makeroni members, complete with a location. As conditions change, the site will enable groups of local makers (or visiting makers) to meetup and compare notes, hack devices and the like in a safe environment. So, that's the plan and if you want to join in making it real, welcome aboard!
