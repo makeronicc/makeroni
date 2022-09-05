@@ -1,5 +1,9 @@
-# Hugo default output directory
-public
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
 
 ## OS Files
 # Windows
@@ -22,3 +26,6 @@ hugo.darwin
 
 .vscode
 package*json
+
+# Hugo Build Lock
+/.hugo_build.lock

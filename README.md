@@ -6,6 +6,15 @@ Download and install Hugo (and Go)
 
 Clone the repository
 
+Run
+
+```
+git submodule init
+git submodule update
+```
+
+to get the them up and running
+
 Run `hugo server -D` to run the development server locally.
 
 ## Warning
