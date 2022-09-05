@@ -13,7 +13,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  site_logo = "/images/white-small-logo.svg"
+  site_logo = "/images/white-small-site-logo-64.png"
   show_reading_time = true
   description = "A place to meet and make online (and physically)"
   mainSections= [ "news","projects","reviews" ]
