@@ -29,3 +29,6 @@ package*json
 
 # Hugo Build Lock
 /.hugo_build.lock
+
+# Local Netlify folder
+.netlify
