@@ -34,7 +34,10 @@ url = "https://twitter.com/makeronicc"
 name = "github"
 url = "https://github.com/makeronicc"
 
-# needs a discord SVG if we want this in the header
-# [[params.ananke_socials]]
-# name = "discord"
-# url = "https://discord.gg/HYYXHSu"
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://fosstodon.org/@makeroni"
+
+[[params.ananke_socials]]
+name = "discord"
+url = "https://discord.gg/HYYXHSu"
