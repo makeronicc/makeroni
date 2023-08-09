@@ -1,7 +1,7 @@
 ---
 title: "Visit us at Hack in the Park"
 date: 2023-08-09T15:53:19+01:00
-draft: true
+draft: false
 tags:
 - Makeroni
 - HackWimbledon
