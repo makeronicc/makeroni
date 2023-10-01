@@ -36,7 +36,7 @@ url = "https://github.com/makeronicc"
 
 [[params.ananke_socials]]
 name = "mastodon"
-url = "https://fosstodon.org/@makeroni"
+url = "https://mastodon.org.uk/@makeroni"
 
 [[params.ananke_socials]]
 name = "discord"
