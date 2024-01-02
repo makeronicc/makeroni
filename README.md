@@ -39,9 +39,9 @@ To add a new post / content:
 e.g. `hugo new content news/this-is-some-news.md` would create a new post in the news section.
 
 Don't forget to flip the draft false/true switch before pushing to production...
-### Warning
 
-‼️ *Committing to the main branch will automatically deploy to Netlify*
+> [!WARNING]
+> *Committing to the main branch will automatically deploy to Netlify!*
 
 If you are making changes, branch and/or fork and work in a branch. Also, it is helpful to request a review before committing to the main branch, especially for larger changes / new posts.
 
