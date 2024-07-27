@@ -2,7 +2,7 @@ baseURL = "https://makeroni.cc"
 languageCode = "en-gb"
 title = "Makeroni"
 theme = ["osm","ananke"]
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
@@ -14,9 +14,8 @@ enableRobotsTXT = true
 
 [params]
   site_logo = "/images/white-small-site-logo-64.png"
-  show_reading_time = true
-  description = "A place to meet and make online (and physically)"
-  mainSections= [ "news","projects","reviews" ]
+  #show_reading_time = true
+  description = "A place to meet and make physically and digitally."
   favicon = "makeroni-white-small-logo-favicon.png"
   # this is used for the OpenGraph Card image if no featured image per page, must be min 120x120
   images = [ "makeroni-white-small-logo-favicon.png" ]
@@ -25,6 +24,34 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/spencer-lbqLxgvLt0U-unsplash.jpg"
   recent_posts_number = 3
+
+
+[menu]
+
+  [[menu.main]]
+  name = "News"
+  url = "/news/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Meetings"
+  url = "/meetings/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Online"
+  url = "/online/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
 
 [[params.ananke_socials]]
 name = "twitter"
