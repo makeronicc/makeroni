@@ -10,4 +10,6 @@ Want to chat with Makeroni people, plan your first visit or just natter? You'll 
 
 So, once you are signed up on Meetup, join us on [Makeroni Discord](https://discord.gg/HYYXHSu).
 
+Our social media presence is in the Fediverse with [Makeroni@mastodon.org.uk](https://mastodon.org.uk/@makeroni) (and X/Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC)).
+
 If you want to contact a human, ping [our email box](mailto:makeronicc@gmail.com) or give us a shout on Twitter where we're [@makeronicc](https://twitter.com/makeronicc).
