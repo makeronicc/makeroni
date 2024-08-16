@@ -54,10 +54,6 @@ enableRobotsTXT = true
   weight = 5
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/makeronicc"
-
-[[params.ananke_socials]]
 name = "github"
 url = "https://github.com/makeronicc"
 

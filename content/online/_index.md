@@ -4,12 +4,10 @@ title: "Online"
 
 Makeroni is open to all - if you want to join in, just dive in!
 
-
-
 Want to chat with Makeroni people, plan your first visit or just natter? You'll find us on the Makeroni Discord server where we chat throughout the week, and can coordinate what we get to do on Sunday physical meetups. Or we have Afternoon Hacks where we turn the cameras on and show each other what we are up to.
 
 So, once you are signed up on Meetup, join us on [Makeroni Discord](https://discord.gg/HYYXHSu).
 
-Our social media presence is in the Fediverse with [Makeroni@mastodon.org.uk](https://mastodon.org.uk/@makeroni) (and X/Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC)).
+Our social media presence is in the Fediverse with [Makeroni@mastodon.org.uk](https://mastodon.org.uk/@makeroni).
 
-If you want to contact a human, ping [our email box](mailto:makeronicc@gmail.com) or give us a shout on Twitter where we're [@makeronicc](https://twitter.com/makeronicc).
+If you want to contact a human, ping [our email box](mailto:makeronicc@gmail.com).
