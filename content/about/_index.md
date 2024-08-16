@@ -8,7 +8,7 @@ Makeroni is an umbrella organisation for small popup makerspaces - namely HackWi
 
 We have [physical meetings](/meetings/). HackWimbledon's happen twice a month, *approximately* on the first and third Sunday of every month at Wimbletech. See the meetings page and signed up on [Makeroni Discord](https://discord.gg/HYYXHSu) to be kept up-to-date and to take part in online events.
 
-Our social media presence is in the Fediverse with [Makeroni@mastodon.org.uk](https://mastodon.org.uk/@makeroni) (and X/Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC)).
+Our social media presence is in the Fediverse with [Makeroni@mastodon.org.uk](https://mastodon.org.uk/@makeroni).
 
 And finally the website, [Makeroni.cc](https://makeroni.cc), where you are right now, will be the base for a community contributed blog, and a launchpad for our longer term plans.
 
