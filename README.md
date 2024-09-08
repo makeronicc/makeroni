@@ -19,15 +19,6 @@ $ brew install hugo
 $ brew install gh
 ```
 
-Run
-
-```sh
-$ git submodule init
-$ git submodule update
-```
-
-to get things ready for running.
-
 Run `hugo server -D` to run the development server locally.
 
 ### Quick start / cheatsheet

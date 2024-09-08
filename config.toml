@@ -1,12 +1,18 @@
 baseURL = "https://makeroni.cc"
 languageCode = "en-gb"
 title = "Makeroni"
-theme = ["osm","ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke","github.com/hanzei/hugo-component-osm"]
 # SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
-Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
+[module]
+  [[module.imports]]
+    path = 'github.com/theNewDynamic/gohugo-theme-ananke'
+  [[module.imports]]
+    path = 'github.com/hanzei/hugo-component-osm'
+    
 [sitemap]
   changefreq = "monthly"
   priority = 0.5

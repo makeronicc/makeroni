@@ -2,11 +2,11 @@
 title: "Meetings"
 ---
 
-Want to know when and where we meet? Join up with the [Makeroni Meetup group](https://www.meetup.com/makeroni/).
+Want to know when and where we meet?
 
-Below is the latest events planned.
+Spoiler alert: We meet in Wimbledon.
 
+Join up with the [Makeroni Lu.ma calendar](https://lu.ma/hackwimbledon).
 
-{{< rawhtml >}}
-<div class='sk-meetup-event' data-embed-id='25442641'></div><script src='https://widgets.sociablekit.com/meetup-group-events/widget.js' async defer></script>
-{{< /rawhtml >}}
+Sign up there for any future event showing. It's all free.
+
