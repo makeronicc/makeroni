@@ -21,7 +21,7 @@ Anyway, the idea of this meeting will be to show and tell and to compare notes o
 
 If you want to get a look at a Pi 5 in the flesh, or if you want to hear how its going, come along. If you're getting a Pi 5, come and tell how you're finding yours. Come celebrate Pi Fawkes Night at HackWimbledon!
 
-If you want to come along, sign up on the [Meetup page](https://www.meetup.com/makeroni/events/296465244/) to claim a space.
+~~If you want to come along, sign up on the [Meetup page](https://www.meetup.com/makeroni/events/296465244/) to claim a space.~~
 
 Feel free to drop by our [Discord](https://discord.gg/HYYXHSu) in the meantime. And we'll be seeing you on November 5th!
 
