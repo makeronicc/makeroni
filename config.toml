@@ -1,11 +1,14 @@
 baseURL = "https://makeroni.cc"
 languageCode = "en-gb"
 title = "Makeroni"
-theme = ["osm","ananke"]
+#theme = ["osm","ananke"]
 SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
-Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
+theme = [ "github.com/theNewDynamic/gohugo-theme-ananke/v2" , "github.com/Hanzei/hugo-component-osm" ]
+
+[pagination]
+  pagerSize=10
 
 [sitemap]
   changefreq = "monthly"
@@ -36,7 +39,7 @@ url = "https://github.com/makeronicc"
 
 [[params.ananke_socials]]
 name = "mastodon"
-url = "https://fosstodon.org/@makeroni"
+url = "https://mastodon.org.uk/@makeroni"
 
 [[params.ananke_socials]]
 name = "discord"
