@@ -1,4 +1,4 @@
-github.com/hanzei/hugo-component-osm v0.0.1 h1:v88fdTx3eBFuV1PBlF2zyU5hMVsjsMQ5IovFAOOOTiY=
-github.com/hanzei/hugo-component-osm v0.0.1/go.mod h1:nz2+6qLOoUC7CL8Rdig7n4Tdy0xf70/yrthlUnGyyYw=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240503174335-33fbda0e9d3e h1:7gGo4gWBXKqjctzjetYSPhOGJKbVBsNgkiv5oJ3LgJc=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240503174335-33fbda0e9d3e/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/Hanzei/hugo-component-osm v0.0.1 h1:F2FUyiN/xnxXgMtMdNJQPOYGbrNh68xC2sQL5WZBsds=
+github.com/Hanzei/hugo-component-osm v0.0.1/go.mod h1:OySqkzA+1zwxeo15W/1P33bytoq70+4Wx7TaLRVVxhs=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2 h1:e57wIClfYebSg7lqJ6ZBbsPaOO+qYEUuqzKbOCwSMqA=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2/go.mod h1:PiXJyylwvAMIfDiHY0SlP8fDwGHhq3ocwbP4TiuAevo=
