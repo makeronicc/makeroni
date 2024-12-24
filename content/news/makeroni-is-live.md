@@ -14,7 +14,7 @@ This made things hard - the group was all about meeting up in person. HackWimble
 
 Makeroni is starting out in a prototype phase. Our realtime web presence will be over on Discord on the [Makeroni](https://discord.gg/HYYXHSu) server. There we'll have Discord's fine community interaction tools available to us.
 
-Our social media presence will be in Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC).
+~~Our social media presence will be in Twitter for now as [@Makeronicc](https://twitter.com/MakeroniCC).~~
 
 We'll continue to meetup online, every Saturday from 12 till 4 (UK local time) on Discord with video and audio in play for folks to talk and show and make, create and illuminate just like HackWimbledon days (bring your own snacks and drinks (fizzy)).
 
