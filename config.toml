@@ -1,21 +1,13 @@
 baseURL = "https://makeroni.cc"
 languageCode = "en-gb"
 title = "Makeroni"
-#theme = ["osm","ananke"]
 SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
-
 enableRobotsTXT = true
 theme = [ "github.com/theNewDynamic/gohugo-theme-ananke/v2" , "github.com/Hanzei/hugo-component-osm" ]
 
 [pagination]
   pagerSize=10
-
-[module]
-  [[module.imports]]
-    path = 'github.com/theNewDynamic/gohugo-theme-ananke'
-  [[module.imports]]
-    path = 'github.com/hanzei/hugo-component-osm'
     
 [sitemap]
   changefreq = "monthly"
@@ -29,39 +21,11 @@ theme = [ "github.com/theNewDynamic/gohugo-theme-ananke/v2" , "github.com/Hanzei
   favicon = "makeroni-white-small-logo-favicon.png"
   # this is used for the OpenGraph Card image if no featured image per page, must be min 120x120
   images = [ "makeroni-white-small-logo-favicon.png" ]
-  body_classes= "avenir bg-near-white"
+  body_classes= "avenir next bg-near-white"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/spencer-lbqLxgvLt0U-unsplash.jpg"
   recent_posts_number = 3
-
-
-[menu]
-
-  [[menu.main]]
-  name = "News"
-  url = "/news/"
-  weight = 1
-
-  [[menu.main]]
-  name = "Meetings"
-  url = "/meetings/"
-  weight = 2
-
-  [[menu.main]]
-  name = "Online"
-  url = "/online/"
-  weight = 3
-
-  [[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 4
-
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 5
 
 [[params.ananke_socials]]
 name = "github"

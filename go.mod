@@ -1,6 +1,6 @@
 module github.com/makeronicc/makeroni
 
-go 1.23.2
+go 1.23
 
 require (
 	github.com/Hanzei/hugo-component-osm v0.0.1 // indirect
